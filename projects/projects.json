@@ -1,0 +1,325 @@
+[
+  {
+    "name": "Encore",
+    "desc": "Clone of Patreon- Project shortlisted in Accenture hackathon.",
+    "image": "encore",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/api-projects/saas-jobs"
+    }
+  },
+  {
+    "name": "Grievance Portal",
+    "desc": "A protal where users can file complaints and get real time updates via registered email. ",
+    "image": "grievance",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/Grievance-Portal"
+    }
+  },
+  {
+    "name": "Web RTC Video Chat",
+    "desc": "A video chat app made using webRTC",
+    "image": "vdochat",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/webRTC-VideoChat"
+    }
+  },
+  {
+    "name": "Learning Hasura",
+    "desc": "It is a project to learn hasura and make Graph QL querying simpler.",
+    "image": "hasura",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/Learning-Hasura"
+    }
+  },
+  {
+    "name": "iOS showcase App",
+    "desc": "A swift UI application that has different stylings.",
+    "image": "swift",
+    "category": "swift",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/SwiftDemo"
+    }
+  },
+  {
+    "name": "RabbitMQ Microservices",
+    "desc": "An e-commerce backend made using microservices architecture. Rabbit MQ for communication",
+    "image": "ecom",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/RabbitMQ-Microservices"
+    }
+  },
+  {
+    "name": "Role Based Access Control",
+    "desc": "Implementation of RBAC in a website where admin only has access to certain routes and can perform some special actions",
+    "image": "rbac",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/Role-Based-Access-Control"
+    }
+  },
+  {
+    "name": "Nest JS",
+    "desc": "Basic Nest JS project with an User module and all type of requests. Understood decorators and validators.",
+    "image": "nest",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/Nest-JS"
+    }
+  },
+ 
+  {
+    "name": "Swift Framework",
+    "desc": "A custom framework for Swift UI with cocoapods configured.",
+    "image": "framework",
+    "category": "swift",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/custombutton"
+    }
+  },
+  {
+    "name": "Todo- MVC",
+    "desc": "A todo app made using MVC approach with Express and Mongo",
+    "image": "todo",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/Todo-MVC"
+    }
+  },
+  {
+    "name": "GraphQL Basics",
+    "desc": "A project to understand query and mutations in GraphQL.",
+    "image": "gql",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/GraphQL"
+    }
+  },
+  {
+    "name": "Database Migrations",
+    "desc": "A project to understand seeding, up() and down() in DB migrations.",
+    "image": "migartions",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/Database-Migrations"
+    }
+  },
+  {
+    "name": "Socket Basics",
+    "desc": "This app is to learn basics of sockets.",
+    "image": "sockets",
+    "category": "react",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/Node-ChatApp-Sockets"
+    }
+  },
+  {
+    "name": "GraphQL Mongoose",
+    "desc": "A Graph QL query to get data from mongo DB databse.",
+    "image": "gql-mongoose",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/GraphQL-Mongoose"
+    }
+  },
+  {
+    "name": "Unit Testing",
+    "desc": "Understanding unit testing using mocha and chai",
+    "image": "testing",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/UnitTesting"
+    }
+  },
+  {
+    "name": "RBAC basic",
+    "desc": "Basic user permission system to understand RBAC.",
+    "image": "rbac-basic",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/RBAC-Basic"
+    }
+  },
+  {
+    "name": "TripAbrood-Mongo DB",
+    "desc": "Implemented complete structure of trip-abrood website's database using mongoose along with relationships and inter-relations of tables.",
+    "image": "tripabrood-mongo",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/TripAbrood-MongoDB"
+    }
+  },
+  {
+    "name": "TripAbrood- SQL",
+    "desc": "Implemented complete structure of trip-abrood website's database using sequelize along with relationships and inter-relations of tables.",
+    "image": "tripabrood",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/TripAbrood-SQL"
+    }
+  },
+  
+  {
+    "name": "Instagram Clone",
+    "desc": "Instagram clone built using react with firebase authentication.",
+    "image": "insta",
+    "category": "react",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/Instagram-Clone"
+    }
+  },
+  {
+    "name": "Type ORM CRUD" ,
+    "desc": "CRUD using Type-ORM",
+    "image": "type",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/TypeORM-CRUD"
+    }
+  },
+  {
+    "name": "Type ORM",
+    "desc": "A basic project to learn Type ORM.",
+    "image": "type",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/Type-ORM"
+    }
+  },
+  {
+    "name": "Firebase Authentication",
+    "desc": "A firebase authentication project.",
+    "image": "firebase",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/Firebase-Auth"
+    }
+  },
+  {
+    "name": "Prisma ORM",
+    "desc": "It's a backend with database having inter-relationships and complexities",
+    "image": "prisma",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/PrismaORM"
+    }
+  },
+  {
+    "name": "Peer JS Video Chat",
+    "desc": "A video chat app with text chat made using Peer JS",
+    "image": "vdochat",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/peerJS-VideoChat"
+    }
+  },
+  {
+    "name": "React Calculator",
+    "desc": "A basic Calculator made using React.",
+    "image": "reactCalc",
+    "category": "react",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/ReactCalculator"
+    }
+  },
+  {
+    "name": "Verdure",
+    "desc": "This is a website addressing mental health during COVID-19.",
+    "image": "verdure",
+    "category": "basicweb",
+    "links": {
+      "view": "https://verdure.pujaaggarwal.repl.co/",
+      "code": "https://github.com/pujaagarwal5263/Verdure"
+    }
+  },
+  
+  {
+    "name": "Restful API",
+    "desc": "This is a restful api created from scratch using mongoose and express.",
+    "image": "mernbackend",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/restfulapi"
+    }
+  },
+  {
+    "name": "Node Dynamic",
+    "desc": "This a dynamic website using node.js, mongodb and express.",
+    "image": "nodedynamic",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/nodedynamic"
+    }
+  },
+  {
+    "name": "MERN Backend",
+    "desc": "This is a project which illustrates basic functionality like login, logout, registration, secret pages, etc using Mongodb, Express and Nodejs.",
+    "image": "mernbackend",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/mernbackend"
+    }
+  },
+  {
+    "name": "React Weather App",
+    "desc": "This is a weather app created purely using react and API.",
+    "image": "react-weather",
+    "category": "react",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/weather-app"
+    }
+  },
+  {
+    "name": "My Awesome Cart",
+    "desc": "This is an E-commerce website made using Django and basic HTML, CSS. It has features like order tracking, contacting the admin, add to cart, etc.",
+    "image": "mac",
+    "category": "python",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/MyAwesomeCart"
+    }
+  },
+  {
+    "name": "Virtual Quiz",
+    "desc": "It is an Online Examination application capable of conducting virtual exam for different subjects with RBAC implemented.",
+    "image": "vq1",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pujaagarwal5263/VirtualQuiz"
+    }
+  }
+]
