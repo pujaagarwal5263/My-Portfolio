@@ -1,30 +1,32 @@
 [
-    
-    {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
-    },
     {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
-       "name": "Core Java",
-       "icon": "https://img.icons8.com/color/48/000000/java.png"
+        "name": "ExpressJS",
+        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
     },
     {
-        "name": "GraphQL",
-        "icon": "https://img.icons8.com/color/48/000000/graphql.png"
-     },
+       "name": "Core Java",
+       "icon": "https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"
+    },
      {
         "name": "Typescript",
         "icon": "https://img.icons8.com/color/48/000000/typescript.png"
      },
      {
         "name": "REST API",
-        "icon": "https://img.icons8.com/fluency/48/000000/code.png"
+        "icon": "https://img.icons8.com/fluency/48/000000/api-settings.png"
     },
-   
+   {
+        "name": "GraphQL",
+        "icon": "https://img.icons8.com/color/48/000000/graphql.png"
+     },
+  {
+    "name": "Nest JS",
+    "icon": "https://img.icons8.com/color/48/000000/nestjs.png"
+  },
     {
         "name": "Firebase",
         "icon": "https://img.icons8.com/color/48/000000/firebase.png"
