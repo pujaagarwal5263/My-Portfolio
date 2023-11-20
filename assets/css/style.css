@@ -554,6 +554,27 @@ header .navbar ul li a:hover {
   align-items: center;
   flex-direction: column;
 }
+.education .box-container-1 {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: center;
+  align-items: center;
+  flex-direction: column; */
+}
+.education .box-container-1 .box {
+  display: flex;
+  flex-direction: row;
+  margin-right: 30px;
+  width: 80%;
+  border-radius: 0.5rem;
+  box-shadow: 0.2rem 0.5rem 1rem rgba(0, 0, 0, 0.2);
+  text-align: center;
+  position: relative;
+  margin-top: 2rem;
+  overflow: hidden;
+  transition: 0.3s;
+  background: rgb(252, 252, 252);
+}
 .education .box-container .box {
   display: flex;
   flex-direction: row;
@@ -589,6 +610,20 @@ header .navbar ul li a:hover {
   flex-wrap: wrap;
   flex: 1 1 70rem;
 }
+.education .box-container-1 .box .content h3 {
+  font-size: 2.0rem;
+  color: #012970;
+  padding: 0.3rem 0;
+  font-weight: 600;
+  text-align: left;
+  margin-left: 0.8rem;
+}
+.education .box-container-1 .box .content p {
+  font-size: 1.5rem;
+  margin-left: 1rem;
+  text-align: left;
+}
+
 .education .box-container .box .content h3 {
   font-size: 2.5rem;
   color: #012970;
