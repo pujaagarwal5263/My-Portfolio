@@ -1,1 +1,1 @@
-Visit now: https://portfolio-puja-agarwal.pujuagarwal.repl.co/
+Visit now: https://pujaagarwal.xyz
