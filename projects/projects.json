@@ -1,12 +1,92 @@
 [
   {
-    "name": "Encore",
-    "desc": "Clone of Patreon- Project shortlisted in Accenture hackathon.",
-    "image": "encore",
+    "name": "CodeAbly",
+    "desc": "Realtime Coding Collaboration Platform built with Ably Spaces.",
+    "image": "codeably",
     "category": "mern",
     "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/api-projects/saas-jobs"
+      "view": "https://code-ably.vercel.app/",
+      "code": "https://github.com/pujaagarwal5263/CodeAbly"
+    }
+  },
+  {
+    "name": "Nimbus 2023",
+    "desc": "Leetcode clone made with Python-Shell and Codemirror.",
+    "image": "nimbus",
+    "category": "mern",
+    "links": {
+      "view": "https://nimbus-2023.vercel.app/",
+      "code": "https://github.com/pujaagarwal5263/Nimbus-Backend"
+    }
+  },
+  {
+    "name": "MindAIginite",
+    "desc": "Mental health detection and wellbeing platform.",
+    "image": "mental",
+    "category": "ai",
+    "links": {
+      "view": "https://mindaiginite.netlify.app/",
+      "code": "https://github.com/pujaagarwal5263/MediHacks-ML-Model"
+    }
+  },
+  {
+    "name": "CardioCare",
+    "desc": "Health disease detection, appointment scheduling and wellbeing platform.",
+    "image": "heart",
+    "category": "ai",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=ljAJZELDG6U",
+      "code": "https://github.com/pujaagarwal5263/Heart-Disease-Prediction"
+    }
+  },
+  {
+    "name": "Tech-Tonic",
+    "desc": "Tech stack recommendor made with fine-tuning GPT-3.",
+    "image": "techtonic",
+    "category": "ai",
+    "links": {
+      "view": "https://tech-tonic-frontend.netlify.app/",
+      "code": "https://github.com/pujaagarwal5263/Tech-Tonic-Frontend"
+    }
+  },
+  {
+    "name": "Encore/ Fundify",
+    "desc": "Clone of Patreon- Project shortlisted in Accenture hackathon.",
+    "image": "original",
+    "category": "mern",
+    "links": {
+      "view": "https://fundify-frontend.vercel.app/",
+      "code": "https://github.com/pujaagarwal5263/Encore-Backend"
+    }
+  },
+  {
+    "name": "FitPulse",
+    "desc": "A fitness tracker app made utilizing Google Fitness API and Node.JS",
+    "image": "fitpulse",
+    "category": "mern",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=tJVG1-pfb-U",
+      "code": "https://github.com/pujaagarwal5263/Fitness-Tracker-BE"
+    }
+  },
+  {
+    "name": "Animal Rescue Hub",
+    "desc": "A protal to manage animal rescue requests and Breed Reconition with Tensorflow.",
+    "image": "animalrescue",
+    "category": "ai",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=vMCkNnl_pZk",
+      "code": "https://github.com/pujaagarwal5263/AnimalRescueHub"
+    }
+  },
+  {
+    "name": "Productivity Nexus",
+    "desc": "A tool to help users in boosting productivity with Speechly and AI-Assisted Email writing, analysis, and summarization.",
+    "image": "nexus",
+    "category": "ai",
+    "links": {
+      "view": "https://productivity-nexus.vercel.app/",
+      "code": "https://github.com/pujaagarwal5263/Nexus-Auth-Backend"
     }
   },
   {
@@ -17,6 +97,56 @@
     "links": {
       "view": "#",
       "code": "https://github.com/pujaagarwal5263/Grievance-Portal"
+    }
+  },
+  {
+    "name": "SyncBoard",
+    "desc": "Realtime drawing tool made with Ably and Node.JS",
+    "image": "syncboard",
+    "category": "mern",
+    "links": {
+      "view": "https://syncboard.vercel.app/",
+      "code": "https://github.com/pujaagarwal5263/SyncBoard"
+    }
+  },
+  {
+    "name": "Pawsome Partners",
+    "desc": "Animal adoption platform with Node.JS and MongoDB.",
+    "image": "pawsome",
+    "category": "mern",
+    "links": {
+      "view": "https://pawsome-partners.onrender.com/",
+      "code": "https://github.com/pujaagarwal5263/PawsomePartners"
+    }
+  },
+  {
+    "name": "EcoSavvy",
+    "desc": "Carbon Footprint Calculator made with Climatiq API.",
+    "image": "ecosavvy",
+    "category": "react",
+    "links": {
+      "view": "https://eco-savvy-score.vercel.app/",
+      "code": "https://github.com/pujaagarwal5263/EcoSavvy-Score"
+    }
+  },
+  {
+    "name": "SpendWise",
+    "desc": "Expense Tracker made with Speechly and Chart.JS",
+    "image": "spendwise",
+    "category": "react",
+    "links": {
+      "view": "https://expense-tracker-three-eta.vercel.app/",
+      "code": "https://github.com/pujaagarwal5263/Expense_Tracker"
+    }
+  },
+  {
+    "name": "NoteSphere",
+    "desc": "Note taking website made with React.JS and Grafbase (GraphQL).",
+    "image": "notesphere",
+    "category": "react",
+    "links": {
+      "view": "https://notesphereai.netlify.app/",
+      "code": "https://github.com/pujaagarwal5263/NoteSphere-Frontend"
     }
   },
   {
